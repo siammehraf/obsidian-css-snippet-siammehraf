@@ -1,0 +1,11 @@
+/* 
+  Copyright (c) 2025 Siam Mehraf
+  All rights reserved.
+  Website: siammehraf.net
+*/
+
+/* Center all images in Obsidian notes */
+.markdown-preview-view img {
+  display: block;
+  margin: 0 auto;
+}
