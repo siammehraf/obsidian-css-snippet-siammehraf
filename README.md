@@ -15,7 +15,7 @@ This CSS snippet automatically centers all images (JPEG, PNG, etc.) in your Obsi
 
 ### Step 1: Download the CSS File
 
-1. Download or copy the `auto-align-images.css` file from this repository.
+1. Download or copy the `Auto-align Images CSS Snippet for Obsidian` file from this repository.
 
 ### Step 2: Add the CSS Snippet to Obsidian
 
@@ -24,9 +24,9 @@ This CSS snippet automatically centers all images (JPEG, PNG, etc.) in your Obsi
 3. Under the **Appearance** tab, scroll down to **CSS snippets**.
 4. Click **Open snippets folder**.
    - If you don’t see the "CSS snippets" option, make sure you have enabled **Custom CSS** under **Appearance** settings.
-5. Place the `auto-align-images.css` file into the **snippets** folder.
+5. Place the `Auto-align Images CSS Snippet for Obsidian` file into the **snippets** folder.
 6. After adding the file, go back to the **CSS snippets** section in Obsidian settings.
-7. Enable the snippet by toggling the switch next to `auto-align-images.css`.
+7. Enable the snippet by toggling the switch next to `Auto-align Images CSS Snippet for Obsidian`.
 
 ### Step 3: View in Preview Mode
 
@@ -37,7 +37,7 @@ The images in your notes will now be automatically centered when viewing the not
 ## Notes
 
 - This CSS snippet affects only the **preview mode** of your notes in Obsidian. It won’t change the appearance of images in **Edit Mode**.
-- If you want to modify or customize this snippet, feel free to edit the `auto-align-images.css` file to suit your needs.
+- If you want to modify or customize this snippet, feel free to edit the `Auto-align Images CSS Snippet for Obsidian` file to suit your needs.
 
 ---
 
